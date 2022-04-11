@@ -165,7 +165,7 @@ body.open-menu {
     }
     .nav__item:not(:last-child) {
         margin-bottom: 0; 
-        margin-right: 10rem;
+        margin-right: 5rem;
     }
     .header__social-links-box {
         margin-bottom: 0; 
